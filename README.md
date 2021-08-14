@@ -5,40 +5,40 @@
 ---
 
 
-#### [ 🏃‍♀️ Quick Start ](https://github.com/austintgriffith/scaffold-eth#%EF%B8%8F-quick-start)
+#### [ 🏃‍♀️ Quick Start ](https://github.com/SergeWilfried/scaffold-eth#%EF%B8%8F-quick-start)
 
-#### [ 🔭 Learning Solidity ](https://github.com/austintgriffith/scaffold-eth#-learning-solidity)
+#### [ 🔭 Learning Solidity ](https://github.com/SergeWilfried/scaffold-eth#-learning-solidity)
 
-#### [ 📡 Deploy ](https://github.com/austintgriffith/scaffold-eth#-deploy)
+#### [ 📡 Deploy ](https://github.com/SergeWilfried/scaffold-eth#-deploy)
 
-#### [ 📺 Frontend](https://github.com/austintgriffith/scaffold-eth#-frontend)
-- [ 🛰 Providers ](https://github.com/austintgriffith/scaffold-eth#-providers)
-- [ 🖇 Hooks ](https://github.com/austintgriffith/scaffold-eth#-hooks)
-- [ 📦 Components ](https://github.com/austintgriffith/scaffold-eth#-components)
-- [ 🖲 UI Library ](https://github.com/austintgriffith/scaffold-eth#-ui-library)
-- [ ⛑ Helpers ](https://github.com/austintgriffith/scaffold-eth#-helpers)
-- [ 🎚 Extras ](https://github.com/austintgriffith/scaffold-eth#-extras)
--  <B> [ 🛳 Ship it! ](https://github.com/austintgriffith/scaffold-eth#-ship-it) </B>
+#### [ 📺 Frontend](https://github.com/SergeWilfried/scaffold-eth#-frontend)
+- [ 🛰 Providers ](https://github.com/SergeWilfried/scaffold-eth#-providers)
+- [ 🖇 Hooks ](https://github.com/SergeWilfried/scaffold-eth#-hooks)
+- [ 📦 Components ](https://github.com/SergeWilfried/scaffold-eth#-components)
+- [ 🖲 UI Library ](https://github.com/SergeWilfried/scaffold-eth#-ui-library)
+- [ ⛑ Helpers ](https://github.com/SergeWilfried/scaffold-eth#-helpers)
+- [ 🎚 Extras ](https://github.com/SergeWilfried/scaffold-eth#-extras)
+-  <B> [ 🛳 Ship it! ](https://github.com/SergeWilfried/scaffold-eth#-ship-it) </B>
 
-#### [ 🚩 Challenges ](https://github.com/austintgriffith/scaffold-eth#-challenges)
-- [ 🥩 Staking App](https://github.com/austintgriffith/scaffold-eth/tree/challenge-1-decentralized-staking)
-- [ 🏵 Token Vendor ](https://github.com/austintgriffith/scaffold-eth/tree/challenge-2-token-vendor)
+#### [ 🚩 Challenges ](https://github.com/SergeWilfried/scaffold-eth#-challenges)
+- [ 🥩 Staking App](https://github.com/SergeWilfried/scaffold-eth/tree/challenge-1-decentralized-staking)
+- [ 🏵 Token Vendor ](https://github.com/SergeWilfried/scaffold-eth/tree/challenge-2-token-vendor)
 
-#### [ 👩‍💻 Examples & Tutorials ](https://github.com/austintgriffith/scaffold-eth#-examples-and-tutorials)
-- [ 🎟 Simple NFT ](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example)
+#### [ 👩‍💻 Examples & Tutorials ](https://github.com/SergeWilfried/scaffold-eth#-examples-and-tutorials)
+- [ 🎟 Simple NFT ](https://github.com/SergeWilfried/scaffold-eth/tree/simple-nft-example)
 
-#### [ Built with 🏗 scaffold-eth ](https://github.com/austintgriffith/scaffold-eth#-built-with--scaffold-eth)
-- [ 🎨 Nifty.ink ](https://nifty.ink) ([code](https://github.com/austintgriffith/scaffold-eth/tree/nifty-ink-dev))
+#### [ Built with 🏗 scaffold-eth ](https://github.com/SergeWilfried/scaffold-eth#-built-with--scaffold-eth)
+- [ 🎨 Nifty.ink ](https://nifty.ink) ([code](https://github.com/SergeWilfried/scaffold-eth/tree/nifty-ink-dev))
 
-#### [🌉 Infrastructure ](https://github.com/austintgriffith/scaffold-eth#-infrastructure)
+#### [🌉 Infrastructure ](https://github.com/SergeWilfried/scaffold-eth#-infrastructure)
 
-- [ 🛰 The Graph ](https://github.com/austintgriffith/scaffold-eth#-using-the-graph)
-- [ 🔬 Tenderly ](https://github.com/austintgriffith/scaffold-eth#-using-tenderly)
-- [ 🌐 Etherscan ](https://github.com/austintgriffith/scaffold-eth#-etherscan)
-- [ 🔶 Infura ](https://github.com/austintgriffith/scaffold-eth#-using-infura)
--  🟪 [ Blocknative ](https://github.com/austintgriffith/scaffold-eth#-blocknative)
+- [ 🛰 The Graph ](https://github.com/SergeWilfried/scaffold-eth#-using-the-graph)
+- [ 🔬 Tenderly ](https://github.com/SergeWilfried/scaffold-eth#-using-tenderly)
+- [ 🌐 Etherscan ](https://github.com/SergeWilfried/scaffold-eth#-etherscan)
+- [ 🔶 Infura ](https://github.com/SergeWilfried/scaffold-eth#-using-infura)
+-  🟪 [ Blocknative ](https://github.com/SergeWilfried/scaffold-eth#-blocknative)
 
-|-   <B> [ 📠 Legacy Content ](https://github.com/austintgriffith/scaffold-eth#-legacy-content) </B> - | - <B> [ 💬 Support Chat ](https://github.com/austintgriffith/scaffold-eth#-support-chat) </B> -|
+|-   <B> [ 📠 Legacy Content ](https://github.com/SergeWilfried/scaffold-eth#-legacy-content) </B> - | - <B> [ 💬 Support Chat ](https://github.com/SergeWilfried/scaffold-eth#-support-chat) </B> -|
 
 
 ---
@@ -56,7 +56,7 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 
 ```bash
-git clone https://github.com/austintgriffith/scaffold-eth.git
+git clone https://github.com/SergeWilfried/scaffold-eth.git
 
 cd scaffold-eth
 ```
@@ -142,7 +142,7 @@ Look for the [HardHat](https://hardhat.org) console.log() output in the `yarn ch
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 ---
@@ -193,7 +193,7 @@ Look for the [HardHat](https://hardhat.org) console.log() output in the `yarn ch
 
 📟 Events are really handy for signaling to the frontend. [Read more about events here.](https://solidity-by-example.org/0.6/events/)
 
-📲 Spend some time in `App.jsx` in `packages/react-app/src` and learn about the 🛰 [Providers](https://github.com/austintgriffith/scaffold-eth#-web3-providers)
+📲 Spend some time in `App.jsx` in `packages/react-app/src` and learn about the 🛰 [Providers](https://github.com/SergeWilfried/scaffold-eth#-web3-providers)
 
 ⚠️ Big numbers are stored as objects: `formatEther` and `parseEther` (ethers.js) will help with WEI->ETH and ETH->WEI.
 
@@ -223,7 +223,7 @@ Look for the [HardHat](https://hardhat.org) console.log() output in the `yarn ch
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 ---
@@ -246,7 +246,7 @@ yarn deploy
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 
 ---
@@ -444,7 +444,7 @@ const price = useExchangePrice(mainnetProvider);
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 
@@ -516,20 +516,20 @@ yarn ipfs
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 ---
 
 ## 🚩 Challenges
 
-1. [ 🥩 Decentralized Staking App ](https://github.com/austintgriffith/scaffold-eth/tree/challenge-1-decentralized-staking)
+1. [ 🥩 Decentralized Staking App ](https://github.com/SergeWilfried/scaffold-eth/tree/challenge-1-decentralized-staking)
 
-2. [  🏵 Token Vendor ](https://github.com/austintgriffith/scaffold-eth/tree/challenge-2-token-vendor)
+2. [  🏵 Token Vendor ](https://github.com/SergeWilfried/scaffold-eth/tree/challenge-2-token-vendor)
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 ---
@@ -539,16 +539,16 @@ yarn ipfs
 (todo: insert all the cool active branches)
 
 
-| <M> [ tenderly ](https://github.com/austintgriffith/scaffold-eth/tree/tenderly) |
+| <M> [ tenderly ](https://github.com/SergeWilfried/scaffold-eth/tree/tenderly) |
 | --- |
-| [ simple-nft-example ](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example) |
+| [ simple-nft-example ](https://github.com/SergeWilfried/scaffold-eth/tree/simple-nft-example) |
 
 
 ^^^ ⛏ <b>PR</b> your 🏗 scaffold-eth branch!!! 🙏🙏🙏 ^^^
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 ---
@@ -561,7 +561,7 @@ Paintings come to life as you "ink" new creations and trade them on Ethereum. A 
 
 🏃‍♂️ SpeedRun 📹 (TODO)
 
-[💾 Source Code ](https://github.com/austintgriffith/scaffold-eth/tree/nifty-ink-dev)
+[💾 Source Code ](https://github.com/SergeWilfried/scaffold-eth/tree/nifty-ink-dev)
 
 
 [<H3>🧙‍♂️ Instant Wallet</H3>](https://instantwallet.io)
@@ -569,7 +569,7 @@ Paintings come to life as you "ink" new creations and trade them on Ethereum. A 
 An instant wallet running on xDAI insired by [xdai.io](https://xdai.io).
 
 
-[💾 Source Code ](https://github.com/austintgriffith/scaffold-eth/tree/instantwallet-dev-session)
+[💾 Source Code ](https://github.com/SergeWilfried/scaffold-eth/tree/instantwallet-dev-session)
 
 
 [<H3>🗳 Personal Token Voting</H3>](https://medium.com/@austin_48503/personal-token-voting-73b44a598d8e)
@@ -578,13 +578,13 @@ Poll your holders! Build an example emoji voting system with 🏗 <b>scaffold-et
 
 [🏃‍♂️ SpeedRun 📹 ](https://youtu.be/Q5zgxcQtwWI)
 
-[💾 Source Code ](https://github.com/austintgriffith/scaffold-eth/tree/emoji-vote-dev)
+[💾 Source Code ](https://github.com/SergeWilfried/scaffold-eth/tree/emoji-vote-dev)
 
 
 ^^^ ⛏ PLEASE <b>PR</b> your 🏗 scaffold-eth project in above!!! 🙏🙏🙏 ^^^
 
 ---
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 ---
@@ -729,7 +729,7 @@ You will need to update the `constants.js` in `packages/react-app/src` with [you
 > update the `BLOCKNATIVE_DAPPID` in `packages/react-app/src/constants.js` with [your own Blocknative DappID](https://docs.blocknative.com/notify)
 
 ---
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
 ---
@@ -794,6 +794,6 @@ Join the telegram [support chat 💬](https://t.me/joinchat/KByvmRe5wkR-8F_zz6Aj
 
 ---
 
-===================================================== [⏫ back to the top ⏫](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
+===================================================== [⏫ back to the top ⏫](https://github.com/SergeWilfried/scaffold-eth#-scaffold-eth)
 
 ---
